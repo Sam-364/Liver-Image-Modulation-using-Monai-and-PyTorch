@@ -1,18 +1,10 @@
-[![GitHub issues](https://img.shields.io/github/issues/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch)](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/issues) [![GitHub stars](https://img.shields.io/github/stars/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch)](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/stargazers) [![GitHub license](https://img.shields.io/github/license/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch)](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch) [![GitHub forks](https://img.shields.io/github/forks/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch)](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/network) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/torch) [![YouTube Video Views](https://img.shields.io/youtube/views/AU4KlXKKnac?style=social)](https://youtu.be/AU4KlXKKnac) ![GitHub watchers](https://img.shields.io/github/watchers/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch?style=social)
-# Liver Segmentation Using Monai and PyTorch
+# Liver Image Modulation Using Monai and PyTorch
 You'll find all the Python files you need to accomplish liver segmentation with Monai and PyTorch in this repo, and you can use the same code to segment other organs as well.
 
 ![Output image](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/blob/main/images/liver_segmentation.PNG)
 
 So do this project, you will find some scripts that I wrote by myself and others that I took from Monai's tutorials. For this reason you need to take a look to their original repo and [website](https://monai.io/) to get more information.
 
-## Cloning the repo
-You can start by cloning this repo in your wordspace and then start playing with the function to make your project done.
-```
-git clone https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch
-```
-```
-cd ./Liver-Segmentation-Using-Monai-and-PyTorch
 ```
 ## Packages that need to be installed:
 ```
