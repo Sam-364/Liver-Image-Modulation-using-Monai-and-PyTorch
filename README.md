@@ -6,6 +6,9 @@ You'll find all the Python files you need to accomplish liver segmentation with 
 So do this project, you will find some scripts that I wrote by myself and others that I took from Monai's tutorials. For this reason you need to take a look to their original repo and [website](https://monai.io/) to get more information.
 
 ```
+```
+cd ./Liver-Segmentation-Using-Monai-and-PyTorch
+```
 ## Packages that need to be installed:
 ```
 pip install monai
